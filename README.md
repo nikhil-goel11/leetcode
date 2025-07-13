@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/nikhil-goel11/leetcode/tree/master/0091-decode-ways) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nikhil-goel11/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1250-longest-common-subsequence](https://github.com/nikhil-goel11/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nikhil-goel11/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -67,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-goel11/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nikhil-goel11/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/nikhil-goel11/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
