@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/nikhil-goel11/leetcode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/nikhil-goel11/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/nikhil-goel11/leetcode/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1250-longest-common-subsequence](https://github.com/nikhil-goel11/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Depth-First Search
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nikhil-goel11/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/nikhil-goel11/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-goel11/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-goel11/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -127,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/nikhil-goel11/leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
