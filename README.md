@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/nikhil-goel11/leetcode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/nikhil-goel11/leetcode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nikhil-goel11/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil-goel11/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil-goel11/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/nikhil-goel11/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
