@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/nikhil-goel11/leetcode/tree/master/1250-longest-common-subsequence) |
 | [3396-valid-word](https://github.com/nikhil-goel11/leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/nikhil-goel11/leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/nikhil-goel11/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1250-longest-common-subsequence](https://github.com/nikhil-goel11/leetcode/tree/master/1250-longest-common-subsequence) |
+| [3618-find-the-original-typed-string-ii](https://github.com/nikhil-goel11/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nikhil-goel11/leetcode/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/nikhil-goel11/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
