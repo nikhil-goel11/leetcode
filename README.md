@@ -146,12 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nikhil-goel11/leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/nikhil-goel11/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/nikhil-goel11/leetcode/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nikhil-goel11/leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/nikhil-goel11/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nikhil-goel11/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nikhil-goel11/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/nikhil-goel11/leetcode/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhil-goel11/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
