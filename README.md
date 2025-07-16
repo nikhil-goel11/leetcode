@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nikhil-goel11/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-goel11/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/nikhil-goel11/leetcode/tree/master/0621-task-scheduler) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nikhil-goel11/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-goel11/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil-goel11/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/nikhil-goel11/leetcode/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-goel11/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/nikhil-goel11/leetcode/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-goel11/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/nikhil-goel11/leetcode/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-goel11/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/nikhil-goel11/leetcode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -179,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/nikhil-goel11/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/nikhil-goel11/leetcode/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
 | ------- |
