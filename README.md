@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/nikhil-goel11/leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/nikhil-goel11/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nikhil-goel11/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhil-goel11/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/nikhil-goel11/leetcode/tree/master/0198-house-robber) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nikhil-goel11/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/nikhil-goel11/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhil-goel11/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/nikhil-goel11/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/nikhil-goel11/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nikhil-goel11/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nikhil-goel11/leetcode/tree/master/0141-linked-list-cycle) |
 ## Bit Manipulation
