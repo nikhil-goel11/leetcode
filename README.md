@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nikhil-goel11/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nikhil-goel11/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/nikhil-goel11/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1250-longest-common-subsequence](https://github.com/nikhil-goel11/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/nikhil-goel11/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/nikhil-goel11/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nikhil-goel11/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-goel11/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/nikhil-goel11/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/nikhil-goel11/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/nikhil-goel11/leetcode/tree/master/0721-accounts-merge) |
