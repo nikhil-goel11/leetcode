@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/nikhil-goel11/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nikhil-goel11/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikhil-goel11/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nikhil-goel11/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nikhil-goel11/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/nikhil-goel11/leetcode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/nikhil-goel11/leetcode/tree/master/3617-find-the-original-typed-string-i) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nikhil-goel11/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/nikhil-goel11/leetcode/tree/master/0621-task-scheduler) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nikhil-goel11/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/nikhil-goel11/leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/nikhil-goel11/leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/nikhil-goel11/leetcode/tree/master/0224-basic-calculator) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nikhil-goel11/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Backtracking
 |  |
 | ------- |
