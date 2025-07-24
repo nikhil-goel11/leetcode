@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nikhil-goel11/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/nikhil-goel11/leetcode/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/nikhil-goel11/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhil-goel11/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nikhil-goel11/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-goel11/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhil-goel11/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/nikhil-goel11/leetcode/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/nikhil-goel11/leetcode/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/nikhil-goel11/leetcode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/nikhil-goel11/leetcode/tree/master/1036-rotting-oranges) |
 ## Combinatorics
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0289-game-of-life](https://github.com/nikhil-goel11/leetcode/tree/master/0289-game-of-life) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhil-goel11/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
