@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-goel11/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhil-goel11/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-goel11/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhil-goel11/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-goel11/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhil-goel11/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/nikhil-goel11/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nikhil-goel11/leetcode/tree/master/0207-course-schedule) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/nikhil-goel11/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/nikhil-goel11/leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-goel11/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/nikhil-goel11/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/nikhil-goel11/leetcode/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nikhil-goel11/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/nikhil-goel11/leetcode/tree/master/0071-simplify-path) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-goel11/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/nikhil-goel11/leetcode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/nikhil-goel11/leetcode/tree/master/0224-basic-calculator) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nikhil-goel11/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
