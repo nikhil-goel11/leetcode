@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhil-goel11/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/nikhil-goel11/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nikhil-goel11/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/nikhil-goel11/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/nikhil-goel11/leetcode/tree/master/0217-contains-duplicate) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nikhil-goel11/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/nikhil-goel11/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/nikhil-goel11/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/nikhil-goel11/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/nikhil-goel11/leetcode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/nikhil-goel11/leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/nikhil-goel11/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nikhil-goel11/leetcode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/nikhil-goel11/leetcode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
