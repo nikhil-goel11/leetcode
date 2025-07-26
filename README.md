@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/nikhil-goel11/leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-goel11/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nikhil-goel11/leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/nikhil-goel11/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/nikhil-goel11/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhil-goel11/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-goel11/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/nikhil-goel11/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/nikhil-goel11/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/nikhil-goel11/leetcode/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/nikhil-goel11/leetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/nikhil-goel11/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nikhil-goel11/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/nikhil-goel11/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhil-goel11/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhil-goel11/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nikhil-goel11/leetcode/tree/master/0189-rotate-array) |
@@ -416,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/nikhil-goel11/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nikhil-goel11/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
