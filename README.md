@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhil-goel11/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/nikhil-goel11/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhil-goel11/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Array
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nikhil-goel11/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/nikhil-goel11/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nikhil-goel11/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhil-goel11/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nikhil-goel11/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhil-goel11/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhil-goel11/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil-goel11/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhil-goel11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhil-goel11/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Two Pointers
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0338-counting-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhil-goel11/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nikhil-goel11/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhil-goel11/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhil-goel11/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
