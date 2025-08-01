@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-goel11/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhil-goel11/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0226-invert-binary-tree) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-goel11/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhil-goel11/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0226-invert-binary-tree) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nikhil-goel11/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/nikhil-goel11/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/nikhil-goel11/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/nikhil-goel11/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0113-path-sum-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0140-word-break-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhil-goel11/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Function
