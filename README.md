@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/nikhil-goel11/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/nikhil-goel11/leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/nikhil-goel11/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nikhil-goel11/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/nikhil-goel11/leetcode/tree/master/0224-basic-calculator) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/nikhil-goel11/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/nikhil-goel11/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/nikhil-goel11/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhil-goel11/leetcode/tree/master/0242-valid-anagram) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nikhil-goel11/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/nikhil-goel11/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/nikhil-goel11/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/nikhil-goel11/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/nikhil-goel11/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/nikhil-goel11/leetcode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
