@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/nikhil-goel11/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/nikhil-goel11/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nikhil-goel11/leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/nikhil-goel11/leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/nikhil-goel11/leetcode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -531,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/nikhil-goel11/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0220-contains-duplicate-iii) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/nikhil-goel11/leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
