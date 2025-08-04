@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/nikhil-goel11/leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/nikhil-goel11/leetcode/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/nikhil-goel11/leetcode/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil-goel11/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhil-goel11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/nikhil-goel11/leetcode/tree/master/0721-accounts-merge) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/nikhil-goel11/leetcode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/nikhil-goel11/leetcode/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/nikhil-goel11/leetcode/tree/master/0282-expression-add-operators) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhil-goel11/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/nikhil-goel11/leetcode/tree/master/0282-expression-add-operators) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhil-goel11/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Function
 |  |
