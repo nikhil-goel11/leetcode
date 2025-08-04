@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/nikhil-goel11/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/nikhil-goel11/leetcode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/nikhil-goel11/leetcode/tree/master/0289-game-of-life) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nikhil-goel11/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
