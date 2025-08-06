@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nikhil-goel11/leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/nikhil-goel11/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/nikhil-goel11/leetcode/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/nikhil-goel11/leetcode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil-goel11/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhil-goel11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/nikhil-goel11/leetcode/tree/master/0721-accounts-merge) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nikhil-goel11/leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/nikhil-goel11/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-goel11/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil-goel11/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhil-goel11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
