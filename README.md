@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/nikhil-goel11/leetcode/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/nikhil-goel11/leetcode/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/nikhil-goel11/leetcode/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/nikhil-goel11/leetcode/tree/master/0319-bulb-switcher) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhil-goel11/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nikhil-goel11/leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/nikhil-goel11/leetcode/tree/master/0319-bulb-switcher) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nikhil-goel11/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Database
 |  |
