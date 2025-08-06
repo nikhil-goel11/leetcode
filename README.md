@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/nikhil-goel11/leetcode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/nikhil-goel11/leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/nikhil-goel11/leetcode/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/nikhil-goel11/leetcode/tree/master/0292-nim-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhil-goel11/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/nikhil-goel11/leetcode/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/nikhil-goel11/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Database
 |  |
@@ -592,4 +594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nikhil-goel11/leetcode/tree/master/0239-sliding-window-maximum) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nikhil-goel11/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
