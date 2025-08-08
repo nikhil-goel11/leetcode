@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/nikhil-goel11/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nikhil-goel11/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/nikhil-goel11/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/nikhil-goel11/leetcode/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/nikhil-goel11/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/nikhil-goel11/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil-goel11/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhil-goel11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/nikhil-goel11/leetcode/tree/master/0721-accounts-merge) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/nikhil-goel11/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/nikhil-goel11/leetcode/tree/master/0321-create-maximum-number) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nikhil-goel11/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Backtracking
 |  |
