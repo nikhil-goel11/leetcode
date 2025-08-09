@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/nikhil-goel11/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/nikhil-goel11/leetcode/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/nikhil-goel11/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/nikhil-goel11/leetcode/tree/master/0542-01-matrix) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/nikhil-goel11/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/nikhil-goel11/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nikhil-goel11/leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/nikhil-goel11/leetcode/tree/master/0343-integer-break) |
 | [0826-soup-servings](https://github.com/nikhil-goel11/leetcode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhil-goel11/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
