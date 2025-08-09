@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/nikhil-goel11/leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/nikhil-goel11/leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/nikhil-goel11/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/nikhil-goel11/leetcode/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/nikhil-goel11/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0338-counting-bits) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nikhil-goel11/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/nikhil-goel11/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/nikhil-goel11/leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/nikhil-goel11/leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/nikhil-goel11/leetcode/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/nikhil-goel11/leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/nikhil-goel11/leetcode/tree/master/0326-power-of-three) |
