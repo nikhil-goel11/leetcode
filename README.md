@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/nikhil-goel11/leetcode/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/nikhil-goel11/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/nikhil-goel11/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nikhil-goel11/leetcode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/nikhil-goel11/leetcode/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhil-goel11/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nikhil-goel11/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/nikhil-goel11/leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nikhil-goel11/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhil-goel11/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nikhil-goel11/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/nikhil-goel11/leetcode/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/nikhil-goel11/leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/nikhil-goel11/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nikhil-goel11/leetcode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhil-goel11/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
