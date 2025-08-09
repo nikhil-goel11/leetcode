@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/nikhil-goel11/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/nikhil-goel11/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nikhil-goel11/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil-goel11/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nikhil-goel11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/nikhil-goel11/leetcode/tree/master/0721-accounts-merge) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nikhil-goel11/leetcode/tree/master/0189-rotate-array) |
 | [0321-create-maximum-number](https://github.com/nikhil-goel11/leetcode/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/nikhil-goel11/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/nikhil-goel11/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
