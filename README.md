@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/nikhil-goel11/leetcode/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/nikhil-goel11/leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/nikhil-goel11/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0416-partition-equal-subset-sum](https://github.com/nikhil-goel11/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/nikhil-goel11/leetcode/tree/master/0542-01-matrix) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/nikhil-goel11/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nikhil-goel11/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/nikhil-goel11/leetcode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/nikhil-goel11/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0826-soup-servings](https://github.com/nikhil-goel11/leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/nikhil-goel11/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/nikhil-goel11/leetcode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/nikhil-goel11/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0357-count-numbers-with-unique-digits](https://github.com/nikhil-goel11/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nikhil-goel11/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Function
 |  |
