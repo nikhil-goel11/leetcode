@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhil-goel11/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhil-goel11/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/nikhil-goel11/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhil-goel11/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhil-goel11/leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/nikhil-goel11/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/nikhil-goel11/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/nikhil-goel11/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Trie
 |  |
 | ------- |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/nikhil-goel11/leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhil-goel11/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Geometry
 |  |
