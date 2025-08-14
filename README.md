@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nikhil-goel11/leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/nikhil-goel11/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhil-goel11/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/nikhil-goel11/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/nikhil-goel11/leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/nikhil-goel11/leetcode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nikhil-goel11/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nikhil-goel11/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/nikhil-goel11/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/nikhil-goel11/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/nikhil-goel11/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0229-majority-element-ii) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/nikhil-goel11/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/nikhil-goel11/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/nikhil-goel11/leetcode/tree/master/0218-the-skyline-problem) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/nikhil-goel11/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/nikhil-goel11/leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/nikhil-goel11/leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/nikhil-goel11/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nikhil-goel11/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/nikhil-goel11/leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0220-contains-duplicate-iii) |
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nikhil-goel11/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/nikhil-goel11/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-goel11/leetcode/tree/master/0347-top-k-frequent-elements) |
