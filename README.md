@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/nikhil-goel11/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nikhil-goel11/leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/nikhil-goel11/leetcode/tree/master/0071-simplify-path) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/0013-roman-to-integer) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nikhil-goel11/leetcode/tree/master/0127-word-ladder) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nikhil-goel11/leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/nikhil-goel11/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/nikhil-goel11/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nikhil-goel11/leetcode/tree/master/0070-climbing-stairs) |
