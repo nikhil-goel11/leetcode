@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/nikhil-goel11/leetcode/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/nikhil-goel11/leetcode/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/nikhil-goel11/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nikhil-goel11/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/nikhil-goel11/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nikhil-goel11/leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0264-ugly-number-ii) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/nikhil-goel11/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/nikhil-goel11/leetcode/tree/master/0424-longest-repeating-character-replacement) |
