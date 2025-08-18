@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nikhil-goel11/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0113-path-sum-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/nikhil-goel11/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0113-path-sum-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nikhil-goel11/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nikhil-goel11/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhil-goel11/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nikhil-goel11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/nikhil-goel11/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nikhil-goel11/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhil-goel11/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/nikhil-goel11/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/nikhil-goel11/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0190-reverse-bits) |
