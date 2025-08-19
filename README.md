@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0337-house-robber-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nikhil-goel11/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nikhil-goel11/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Breadth-First Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/nikhil-goel11/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/nikhil-goel11/leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/nikhil-goel11/leetcode/tree/master/0322-coin-change) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nikhil-goel11/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/nikhil-goel11/leetcode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/nikhil-goel11/leetcode/tree/master/0721-accounts-merge) |
 | [1036-rotting-oranges](https://github.com/nikhil-goel11/leetcode/tree/master/1036-rotting-oranges) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0337-house-robber-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nikhil-goel11/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## String
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nikhil-goel11/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/nikhil-goel11/leetcode/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0337-house-robber-iii) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nikhil-goel11/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0721-accounts-merge](https://github.com/nikhil-goel11/leetcode/tree/master/0721-accounts-merge) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikhil-goel11/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/nikhil-goel11/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/nikhil-goel11/leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/nikhil-goel11/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nikhil-goel11/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/nikhil-goel11/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhil-goel11/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhil-goel11/leetcode/tree/master/3791-fruits-into-baskets-iii) |
