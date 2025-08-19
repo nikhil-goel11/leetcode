@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nikhil-goel11/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nikhil-goel11/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nikhil-goel11/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/nikhil-goel11/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/nikhil-goel11/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/nikhil-goel11/leetcode/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/nikhil-goel11/leetcode/tree/master/0087-scramble-string) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/nikhil-goel11/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/nikhil-goel11/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/nikhil-goel11/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nikhil-goel11/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nikhil-goel11/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/nikhil-goel11/leetcode/tree/master/0089-gray-code) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/nikhil-goel11/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/nikhil-goel11/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/nikhil-goel11/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0090-subsets-ii) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/nikhil-goel11/leetcode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/nikhil-goel11/leetcode/tree/master/0289-game-of-life) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhil-goel11/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
