@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nikhil-goel11/leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhil-goel11/leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/nikhil-goel11/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/nikhil-goel11/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nikhil-goel11/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nikhil-goel11/leetcode/tree/master/0078-subsets) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nikhil-goel11/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/nikhil-goel11/leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/nikhil-goel11/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nikhil-goel11/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nikhil-goel11/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/nikhil-goel11/leetcode/tree/master/0089-gray-code) |
