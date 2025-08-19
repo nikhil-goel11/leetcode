@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/nikhil-goel11/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/nikhil-goel11/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/nikhil-goel11/leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/nikhil-goel11/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0140-word-break-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nikhil-goel11/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/nikhil-goel11/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/nikhil-goel11/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/nikhil-goel11/leetcode/tree/master/0191-number-of-1-bits) |
