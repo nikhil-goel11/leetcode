@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/nikhil-goel11/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/nikhil-goel11/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/nikhil-goel11/leetcode/tree/master/0900-reordered-power-of-2) |
+| [0903-implement-rand10-using-rand7](https://github.com/nikhil-goel11/leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/nikhil-goel11/leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nikhil-goel11/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -797,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/nikhil-goel11/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/nikhil-goel11/leetcode/tree/master/0867-new-21-game) |
+| [0903-implement-rand10-using-rand7](https://github.com/nikhil-goel11/leetcode/tree/master/0903-implement-rand10-using-rand7) |
 ## Shortest Path
 |  |
 | ------- |
@@ -805,4 +807,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhil-goel11/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0903-implement-rand10-using-rand7](https://github.com/nikhil-goel11/leetcode/tree/master/0903-implement-rand10-using-rand7) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0903-implement-rand10-using-rand7](https://github.com/nikhil-goel11/leetcode/tree/master/0903-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
