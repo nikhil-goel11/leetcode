@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/nikhil-goel11/leetcode/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/nikhil-goel11/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/nikhil-goel11/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nikhil-goel11/leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/nikhil-goel11/leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/nikhil-goel11/leetcode/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/nikhil-goel11/leetcode/tree/master/0399-evaluate-division) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nikhil-goel11/leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Topological Sort
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nikhil-goel11/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/nikhil-goel11/leetcode/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/nikhil-goel11/leetcode/tree/master/0721-accounts-merge) |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nikhil-goel11/leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -819,4 +822,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0903-implement-rand10-using-rand7](https://github.com/nikhil-goel11/leetcode/tree/master/0903-implement-rand10-using-rand7) |
 | [0915-generate-random-point-in-a-circle](https://github.com/nikhil-goel11/leetcode/tree/master/0915-generate-random-point-in-a-circle) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nikhil-goel11/leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nikhil-goel11/leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
