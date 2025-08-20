@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/nikhil-goel11/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhil-goel11/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhil-goel11/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/nikhil-goel11/leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Array
 |  |
 | ------- |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/nikhil-goel11/leetcode/tree/master/0399-evaluate-division) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nikhil-goel11/leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/nikhil-goel11/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/nikhil-goel11/leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Topological Sort
 |  |
 | ------- |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/nikhil-goel11/leetcode/tree/master/0721-accounts-merge) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nikhil-goel11/leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/nikhil-goel11/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/nikhil-goel11/leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/nikhil-goel11/leetcode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nikhil-goel11/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhil-goel11/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/nikhil-goel11/leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Sliding Window
 |  |
 | ------- |
@@ -830,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/nikhil-goel11/leetcode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/nikhil-goel11/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/nikhil-goel11/leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Strongly Connected Component
 |  |
 | ------- |
