@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/nikhil-goel11/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/nikhil-goel11/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nikhil-goel11/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/nikhil-goel11/leetcode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/nikhil-goel11/leetcode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/nikhil-goel11/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/nikhil-goel11/leetcode/tree/master/0337-house-robber-iii) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/nikhil-goel11/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/nikhil-goel11/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/nikhil-goel11/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/nikhil-goel11/leetcode/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/nikhil-goel11/leetcode/tree/master/0313-super-ugly-number) |
 | [0321-create-maximum-number](https://github.com/nikhil-goel11/leetcode/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/nikhil-goel11/leetcode/tree/master/0322-coin-change) |
