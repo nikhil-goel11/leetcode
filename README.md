@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/nikhil-goel11/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nikhil-goel11/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0498-diagonal-traverse](https://github.com/nikhil-goel11/leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/nikhil-goel11/leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/nikhil-goel11/leetcode/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/nikhil-goel11/leetcode/tree/master/0679-24-game) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/nikhil-goel11/leetcode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/nikhil-goel11/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/nikhil-goel11/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0498-diagonal-traverse](https://github.com/nikhil-goel11/leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/nikhil-goel11/leetcode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/nikhil-goel11/leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nikhil-goel11/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/nikhil-goel11/leetcode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/nikhil-goel11/leetcode/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/nikhil-goel11/leetcode/tree/master/0498-diagonal-traverse) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhil-goel11/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
