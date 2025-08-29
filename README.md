@@ -553,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/nikhil-goel11/leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/nikhil-goel11/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/nikhil-goel11/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhil-goel11/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
 |  |
