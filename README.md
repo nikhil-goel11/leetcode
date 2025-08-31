@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nikhil-goel11/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/nikhil-goel11/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nikhil-goel11/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/nikhil-goel11/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhil-goel11/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1706-min-cost-to-connect-all-points](https://github.com/nikhil-goel11/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nikhil-goel11/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/nikhil-goel11/leetcode/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/nikhil-goel11/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/nikhil-goel11/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/nikhil-goel11/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/nikhil-goel11/leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhil-goel11/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/nikhil-goel11/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/nikhil-goel11/leetcode/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/nikhil-goel11/leetcode/tree/master/0900-reordered-power-of-2) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/nikhil-goel11/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
