@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhil-goel11/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nikhil-goel11/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nikhil-goel11/leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/nikhil-goel11/leetcode/tree/master/0037-sudoku-solver) |
 | [0055-jump-game](https://github.com/nikhil-goel11/leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhil-goel11/leetcode/tree/master/0064-minimum-path-sum) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/nikhil-goel11/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nikhil-goel11/leetcode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/nikhil-goel11/leetcode/tree/master/0037-sudoku-solver) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nikhil-goel11/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/nikhil-goel11/leetcode/tree/master/0127-word-ladder) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nikhil-goel11/leetcode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/nikhil-goel11/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/nikhil-goel11/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nikhil-goel11/leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/nikhil-goel11/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/nikhil-goel11/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0090-subsets-ii) |
