@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nikhil-goel11/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhil-goel11/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nikhil-goel11/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/nikhil-goel11/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/nikhil-goel11/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nikhil-goel11/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nikhil-goel11/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nikhil-goel11/leetcode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/nikhil-goel11/leetcode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/nikhil-goel11/leetcode/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/nikhil-goel11/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nikhil-goel11/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nikhil-goel11/leetcode/tree/master/0239-sliding-window-maximum) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/nikhil-goel11/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Queue
 |  |
 | ------- |
