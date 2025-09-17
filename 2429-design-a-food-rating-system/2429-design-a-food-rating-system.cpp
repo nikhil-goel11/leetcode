@@ -1,6 +1,6 @@
 class FoodRatings {
- unordered_map<string, pair<string, int>> foodInfo; // food -> {cuisine, rating}
-    unordered_map<string, set<pair<int, string>>> cuisineFoods; // cuisine -> set of { -rating, food }
+ unordered_map<string, pair<string, int>> foodInfo; 
+    unordered_map<string, set<pair<int, string>>> cuisineFoods; 
 public:
     FoodRatings(vector<string>& foods, vector<string>& cuisines, vector<int>& ratings) {
         int n = foods.size();
