@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-maximum-profit-in-job-scheduling](https://github.com/nikhil-goel11/leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhil-goel11/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhil-goel11/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/nikhil-goel11/leetcode/tree/master/3827-implement-router) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/nikhil-goel11/leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Array
 |  |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/nikhil-goel11/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhil-goel11/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/nikhil-goel11/leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/nikhil-goel11/leetcode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/nikhil-goel11/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nikhil-goel11/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/nikhil-goel11/leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/nikhil-goel11/leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nikhil-goel11/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhil-goel11/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2429-design-a-food-rating-system](https://github.com/nikhil-goel11/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/nikhil-goel11/leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/nikhil-goel11/leetcode/tree/master/3827-implement-router) |
 ## Trie
 |  |
 | ------- |
@@ -871,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/nikhil-goel11/leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [2429-design-a-food-rating-system](https://github.com/nikhil-goel11/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhil-goel11/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/nikhil-goel11/leetcode/tree/master/3827-implement-router) |
 ## Geometry
 |  |
 | ------- |
@@ -883,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nikhil-goel11/leetcode/tree/master/0239-sliding-window-maximum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nikhil-goel11/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/nikhil-goel11/leetcode/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
