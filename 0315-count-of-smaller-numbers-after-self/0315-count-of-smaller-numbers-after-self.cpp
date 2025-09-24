@@ -7,13 +7,13 @@ public:
         int k = 0;
 
         while (i <= mid && j <= right) {
-            // mind that we're sorting in descending order
+
             if (v[i].first <= v[j].first) { 
                 tmp[k++] = v[j++];
             }
             else {
-                // only line responsible to update count, related to problem constraint, 
-                // remaining part is just regular mergeSort 
+
+
                 count[v[i].second] += right - j + 1;
                 tmp[k++] = v[i++];
             }
@@ -46,7 +46,7 @@ public:
             v[i] = make_pair(nums[i], i);
 
         vector<int> count(N, 0);
-        // sorting in descending order
+
         mergeSort(count, v, 0, N-1);
 
         return count;
