@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nikhil-goel11/leetcode/tree/master/0621-task-scheduler) |
 | [0679-24-game](https://github.com/nikhil-goel11/leetcode/tree/master/0679-24-game) |
 | [0721-accounts-merge](https://github.com/nikhil-goel11/leetcode/tree/master/0721-accounts-merge) |
+| [0830-largest-triangle-area](https://github.com/nikhil-goel11/leetcode/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/nikhil-goel11/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/nikhil-goel11/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/nikhil-goel11/leetcode/tree/master/1006-vowel-spellchecker) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/nikhil-goel11/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0679-24-game](https://github.com/nikhil-goel11/leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/nikhil-goel11/leetcode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/nikhil-goel11/leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/nikhil-goel11/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/nikhil-goel11/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0903-implement-rand10-using-rand7](https://github.com/nikhil-goel11/leetcode/tree/master/0903-implement-rand10-using-rand7) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/nikhil-goel11/leetcode/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/nikhil-goel11/leetcode/tree/master/0335-self-crossing) |
+| [0830-largest-triangle-area](https://github.com/nikhil-goel11/leetcode/tree/master/0830-largest-triangle-area) |
 | [0915-generate-random-point-in-a-circle](https://github.com/nikhil-goel11/leetcode/tree/master/0915-generate-random-point-in-a-circle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/nikhil-goel11/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nikhil-goel11/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
