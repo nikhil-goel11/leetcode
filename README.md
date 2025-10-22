@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhil-goel11/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nikhil-goel11/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nikhil-goel11/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nikhil-goel11/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/nikhil-goel11/leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/nikhil-goel11/leetcode/tree/master/3827-implement-router) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/nikhil-goel11/leetcode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/nikhil-goel11/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/nikhil-goel11/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/nikhil-goel11/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nikhil-goel11/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/nikhil-goel11/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/nikhil-goel11/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/nikhil-goel11/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/nikhil-goel11/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/nikhil-goel11/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/nikhil-goel11/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nikhil-goel11/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/nikhil-goel11/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/nikhil-goel11/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nikhil-goel11/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/nikhil-goel11/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nikhil-goel11/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -863,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/nikhil-goel11/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/nikhil-goel11/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nikhil-goel11/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/nikhil-goel11/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/nikhil-goel11/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Simulation
 |  |
