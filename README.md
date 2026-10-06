@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/nikhil-goel11/leetcode/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/nikhil-goel11/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/nikhil-goel11/leetcode/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/nikhil-goel11/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0335-self-crossing](https://github.com/nikhil-goel11/leetcode/tree/master/0335-self-crossing) |
 | [0347-top-k-frequent-elements](https://github.com/nikhil-goel11/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/nikhil-goel11/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/nikhil-goel11/leetcode/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/nikhil-goel11/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/nikhil-goel11/leetcode/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/nikhil-goel11/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/nikhil-goel11/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nikhil-goel11/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/nikhil-goel11/leetcode/tree/master/0611-valid-triangle-number) |
@@ -1072,4 +1074,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/nikhil-goel11/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/nikhil-goel11/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
